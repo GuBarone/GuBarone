@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="perfil.gif" alt="Animação de abertura do perfil" width="100%">
+</div>
+<br>
 # Olá, eu sou o Gustavo Barone! 👋
 
 **Desenvolvedor Full Stack Júnior | C#, ASP.NET Core, APIs RESTful & SQL Server**
@@ -22,16 +26,20 @@ Sou estudante de Sistemas de Informação na Universidade Santa Cecília (Unisan
 
 ### 🚀 Projetos em Destaque
 
-*Abaixo estão alguns dos projetos práticos e acadêmicos que desenvolvi:*
+_Abaixo estão alguns dos projetos práticos e acadêmicos que desenvolvi:_
 
 #### 📦 [API-Estoque-PZaaS](https://github.com/GuBarone/API-Estoque-PZaaS)
+
 Automação de microserviços de estoque e consulta de ingredientes. Workflow construído com **n8n** e banco em memória **Redis** para alta performance, implementando endpoints de health check e métricas de log.
 
 #### 🐳 [TP03-Docker-Nuvem](https://github.com/GuBarone/TP03-Docker-Nuvem)
+
 Projeto focado em infraestrutura e containerização. Implementação de ambiente utilizando **Docker Desktop** e versionamento focado no deploy em nuvem.
 
 #### 📱 [AppLoginFirebase](https://github.com/GuBarone/AppLoginFirebase)
+
 Desenvolvimento mobile nativo. Aplicativo construído no **Android Studio** integrando autenticação segura utilizando o Firebase Authentication e FirebaseUI.
 
 ---
-⚡ *Buscando sempre aprimorar a lógica de programação e a arquitetura de software.*
+
+⚡ _Buscando sempre aprimorar a lógica de programação e a arquitetura de software._
