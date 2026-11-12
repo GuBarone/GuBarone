@@ -2,7 +2,8 @@
   <img src="perfil.gif" alt="Animação de abertura do perfil" width="100%">
 </div>
 <br>
-# Olá, eu sou o Gustavo Barone! 👋
+
+### Olá, eu sou o Gustavo Barone! 👋
 
 **Desenvolvedor Full Stack Júnior | C#, ASP.NET Core, APIs RESTful & SQL Server**
 
