@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="perfil.gif" alt="Animação de abertura do perfil" width="100%">
+  <img src="./perfil-animado.gif" alt="Animação de abertura do perfil" width="100%">
 </div>
 <br>
 
