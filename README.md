@@ -33,13 +33,13 @@ _Abaixo estão alguns dos projetos práticos e acadêmicos que desenvolvi:_
 
 Automação de microserviços de estoque e consulta de ingredientes. Workflow construído com **n8n** e banco em memória **Redis** para alta performance, implementando endpoints de health check e métricas de log.
 
+#### 🤖 [ATS & AI Resume Optimizer Skill](https://github.com/GuBarone/ats-resume-ai-skill)
+
+Skill universal para **Gemini, ChatGPT e Claude** que ajuda a criar ou adaptar currículos para vagas específicas, com foco em estrutura compatível com sistemas ATS, alinhamento de palavras-chave e exportação para `.docx`.
+
 #### 🐳 [TP03-Docker-Nuvem](https://github.com/GuBarone/TP03-Docker-Nuvem)
 
 Projeto focado em infraestrutura e containerização. Implementação de ambiente utilizando **Docker Desktop** e versionamento focado no deploy em nuvem.
-
-#### 📱 [AppLoginFirebase](https://github.com/GuBarone/AppLoginFirebase)
-
-Desenvolvimento mobile nativo. Aplicativo construído no **Android Studio** integrando autenticação segura utilizando o Firebase Authentication e FirebaseUI.
 
 ---
 
