@@ -5,7 +5,7 @@
 
 ### Olá, eu sou o Gustavo Barone! 👋
 
-**Desenvolvedor Full Stack Júnior | C#, ASP.NET Core, APIs RESTful & SQL Server**
+**Desenvolvedor de Software Júnior | C#, ASP.NET Core, APIs RESTful & SQL Server**
 
 Sou estudante de Sistemas de Informação na Universidade Santa Cecília (Unisanta) e atuo no desenvolvimento de soluções backend e integração de sistemas (ERP). Tenho forte foco na construção de APIs RESTful, modelagem de bancos de dados relacionais e em escrever código limpo (POO/MVC).
 
